@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "H29hHwlUBi4DUVVrzw7VdwP1MNluN9C0kNgAVuYrqe3FPMkL4a4AR8lkWKeVzIj9bgvGfUNS/rbnrp3FSSDYFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jjjia\\source\\repos\\ReadPolarBear\\ReadPolarBear.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jjjia\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512",
+    "C:\\Users\\jjjia\\.nuget\\packages\\ironsoftware.system.drawing\\2023.6.1\\ironsoftware.system.drawing.2023.6.1.nupkg.sha512",
+    "C:\\Users\\jjjia\\.nuget\\packages\\ironxl.excel\\2023.6.4\\ironxl.excel.2023.6.4.nupkg.sha512",
+    "C:\\Users\\jjjia\\.nuget\\packages\\sixlabors.imagesharp\\3.0.0\\sixlabors.imagesharp.3.0.0.nupkg.sha512",
+    "C:\\Users\\jjjia\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}

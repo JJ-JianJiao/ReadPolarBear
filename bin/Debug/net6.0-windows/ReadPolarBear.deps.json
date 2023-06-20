@@ -1,0 +1,102 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ReadPolarBear/1.0.0": {
+        "dependencies": {
+          "IronXL.Excel": "2023.6.4"
+        },
+        "runtime": {
+          "ReadPolarBear.dll": {}
+        }
+      },
+      "BitMiracle.LibTiff.NET/2.4.649": {
+        "runtime": {
+          "lib/netstandard2.0/BitMiracle.LibTiff.NET.dll": {
+            "assemblyVersion": "2.4.649.0",
+            "fileVersion": "2.4.649.0"
+          }
+        }
+      },
+      "IronSoftware.System.Drawing/2023.6.1": {
+        "dependencies": {
+          "BitMiracle.LibTiff.NET": "2.4.649",
+          "SixLabors.ImageSharp": "3.0.0",
+          "System.Memory": "4.5.5"
+        },
+        "runtime": {
+          "lib/net60/IronSoftware.Drawing.Common.dll": {
+            "assemblyVersion": "2023.6.1.0",
+            "fileVersion": "2023.6.1.0"
+          }
+        }
+      },
+      "IronXL.Excel/2023.6.4": {
+        "dependencies": {
+          "IronSoftware.System.Drawing": "2023.6.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/IronXL.dll": {
+            "assemblyVersion": "2023.6.4.0",
+            "fileVersion": "2023.6.4.0"
+          }
+        }
+      },
+      "SixLabors.ImageSharp/3.0.0": {
+        "runtime": {
+          "lib/net6.0/SixLabors.ImageSharp.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      },
+      "System.Memory/4.5.5": {}
+    }
+  },
+  "libraries": {
+    "ReadPolarBear/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BitMiracle.LibTiff.NET/2.4.649": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XCEdfCphKo0UAvSg1h/OzOFWtjkIGnPMAziYkNqV7NVrqb/tZJTBxJhxIEX7gpvQwg8GIRYt133SUncfkKfjLA==",
+      "path": "bitmiracle.libtiff.net/2.4.649",
+      "hashPath": "bitmiracle.libtiff.net.2.4.649.nupkg.sha512"
+    },
+    "IronSoftware.System.Drawing/2023.6.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rm1/5s3Ge9jckyrzOVrauwp4gGdm6U4AqkTcletmvYWdRhq8Pg0dXrxBM4fHnoXk4UDuY4n8per/Lun9hVkdbw==",
+      "path": "ironsoftware.system.drawing/2023.6.1",
+      "hashPath": "ironsoftware.system.drawing.2023.6.1.nupkg.sha512"
+    },
+    "IronXL.Excel/2023.6.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zcOq7jw6SfYeKBiB3g1ne8oQpLfYMrk9levO28Bq0Z+VwAB7J9OYzlr9/YTBrhI1aQx0w52NKeM6Pz6R+Fv0NQ==",
+      "path": "ironxl.excel/2023.6.4",
+      "hashPath": "ironxl.excel.2023.6.4.nupkg.sha512"
+    },
+    "SixLabors.ImageSharp/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ETEHRfUAn/rExqdmj2GDayPkW9zr3BruO9S4WF9ULpWmdydewIjoJqinbQc+o4DsM3X0wGZPyJLlj6N3uxV/aw==",
+      "path": "sixlabors.imagesharp/3.0.0",
+      "hashPath": "sixlabors.imagesharp.3.0.0.nupkg.sha512"
+    },
+    "System.Memory/4.5.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XIWiDvKPXaTveaB7HVganDlOCRoj03l+jrwNvcge/t8vhGYKvqV+dMv6G4SAX2NoNmN0wZfVPTAlFwZcZvVOUw==",
+      "path": "system.memory/4.5.5",
+      "hashPath": "system.memory.4.5.5.nupkg.sha512"
+    }
+  }
+}

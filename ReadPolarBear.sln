@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadPolarBear", "ReadPolarBear.csproj", "{2F5EA912-2642-4A13-8307-7945EDCCD2AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F5EA912-2642-4A13-8307-7945EDCCD2AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F5EA912-2642-4A13-8307-7945EDCCD2AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F5EA912-2642-4A13-8307-7945EDCCD2AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F5EA912-2642-4A13-8307-7945EDCCD2AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2BB3559-6148-4DA1-A766-889BC0F04E66}
+	EndGlobalSection
+EndGlobal
